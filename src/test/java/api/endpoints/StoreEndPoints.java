@@ -2,11 +2,12 @@ package api.endpoints;
 
 import static io.restassured.RestAssured.given;
 
+import api.payload.Pet;
 import api.payload.User;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 
-public class UserEndPoints {
+public class StoreEndPoints {
 	
 	public static Response CreateanOrderforaPet(User payload)
 	{
@@ -44,4 +45,7 @@ public class UserEndPoints {
 	
 	}
 	
-}
+		
+		
+	}
+

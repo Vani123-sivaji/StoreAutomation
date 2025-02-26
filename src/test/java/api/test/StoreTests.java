@@ -8,11 +8,11 @@ import org.testng.annotations.Test;
 
 import com.github.javafaker.Faker;
 
-import api.endpoints.UserEndPoints;
+import api.endpoints.StoreEndPoints;
 import api.payload.User;
 import io.restassured.response.Response;
 
-public class UserTests {
+public class StoreTests {
 	Faker faker;
 	User userPayload;
 	public Logger logger;
@@ -39,7 +39,7 @@ public class UserTests {
 	{
 		
 		logger.info("********** Creating oreder  ***************");
-		Response response=UserEndPoints.CreateanOrderforaPet(userPayload);
+		Response response=StoreEndPoints.CreateanOrderforaPet(userPayload);
 		
 		response.then().log().all();
 		
@@ -53,7 +53,7 @@ public class UserTests {
 	{
 		
 		logger.info("********** Reading Order Info ***************");
-		Response response=UserEndPoints.readOrder(this.userPayload.getId());
+		Response response=StoreEndPoints.readOrder(this.userPayload.getId());
 		response.then().log().all();
 		Assert.assertEquals(response.getStatusCode(),200);
 		logger.info("**********Order info  is displayed ***************");
@@ -65,7 +65,7 @@ public class UserTests {
 	{
 		logger.info("**********   Deleting order  ***************");
 	
-	Response response=UserEndPoints.deleteorder(this.userPayload.getId());
+	Response response=StoreEndPoints.deleteorder(this.userPayload.getId());
 	Assert.assertEquals(response.getStatusCode(),200);
 	
 	logger.info("********** order deleted ***************");

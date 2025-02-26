@@ -6,7 +6,7 @@ import java.util.Date;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import api.endpoints.UserEndPoints;
+import api.endpoints.StoreEndPoints;
 import api.payload.User;
 import api.utilities.DataProviders;
 import io.restassured.response.Response;
@@ -27,7 +27,7 @@ public class DDTests {
         userPayload.setComplete(complete); // Use the provided 'complete'
 
         // Call the UserEndPoints method to create an order
-        Response response = UserEndPoints.CreateanOrderforaPet(userPayload);
+        Response response = StoreEndPoints.CreateanOrderforaPet(userPayload);
 
         // Validate the response
         Assert.assertEquals(response.getStatusCode(), 200);
@@ -37,7 +37,7 @@ public class DDTests {
 	
 	public void testDeleteorder(int id)
 	{
-			Response response=UserEndPoints.deleteorder(id);
+			Response response=StoreEndPoints.deleteorder(id);
 			Assert.assertEquals(response.getStatusCode(),200);	
 	
 	}

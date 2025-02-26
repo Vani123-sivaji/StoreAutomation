@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Store">
-<listeners>
-  		<listener  class-name="api.utilities.ExtentReportManager" />
-   </listeners>
-  <test thread-count="5" name="Test1">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
     <classes>
-      <class name="api.test.UserTests"/>
-    <!--  <class name="api.test.DDTests"/>-->
+      <class name="api.test.PetsTest"/>
+     <!-- <class name="api.test.DDTests"/>-->
+     <!-- <class name="api.test.StoreTests"/>-->
     </classes>
-  </test> <!-- Test1 -->
-</suite> <!-- Store -->
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,243 @@
+17:33:24.935 [main] INFO  api.test.UserTests2 - ********** Creating oreder  ***************
+17:33:31.689 [main] INFO  api.test.UserTests2 - **********order is created  ***************
+09:46:26.084 [main] INFO  api.test.UserTests2 - ********** Creating Pet  ***************
+09:46:33.248 [main] INFO  api.test.UserTests2 - **********pet is created  ***************
+10:03:20.338 [main] INFO  api.test.UserTests2 - ********** Creating Pet  ***************
+10:03:25.619 [main] INFO  api.test.UserTests2 - **********pet is created  ***************
+10:12:47.220 [main] INFO  api.test.UserTests2 - ********** Creating Pet  ***************
+10:12:52.634 [main] INFO  api.test.UserTests2 - **********pet is created  ***************
+10:14:07.592 [main] INFO  api.test.UserTests2 - ********** Creating Pet  ***************
+10:14:12.806 [main] INFO  api.test.UserTests2 - **********pet is created  ***************
+10:15:46.524 [main] INFO  api.test.UserTests2 - ********** Creating Pet  ***************
+10:15:51.957 [main] INFO  api.test.UserTests2 - **********pet is created  ***************
+10:26:03.302 [main] INFO  api.test.UserTests2 - ********** Creating Pet  ***************
+10:26:08.490 [main] INFO  api.test.UserTests2 - **********pet is created  ***************
+10:33:02.763 [main] INFO  api.test.UserTests2 - ********** Creating Pet  ***************
+10:33:08.357 [main] INFO  api.test.UserTests2 - **********pet is created  ***************
+10:36:16.633 [main] INFO  api.test.UserTests2 - ********** Creating Pet  ***************
+10:36:22.066 [main] INFO  api.test.UserTests2 - **********pet is created  ***************
+11:27:44.687 [main] DEBUG api.test.UserTests2 - Debugging.....
+11:27:44.717 [main] INFO  api.test.UserTests2 - ********** Creating Pet  ***************
+11:27:49.155 [main] INFO  api.test.UserTests2 - **********pet is created  ***************
+11:46:24.440 [main] DEBUG api.test.UserTests2 - Debugging.....
+11:46:24.474 [main] INFO  api.test.UserTests2 - ********** Creating Pet  ***************
+11:46:24.505 [main] INFO  api.test.UserTests2 - ********** Uploading pet image ***************
+11:50:38.640 [main] DEBUG api.test.UserTests2 - Debugging.....
+11:50:38.687 [main] INFO  api.test.UserTests2 - ********** Creating Pet  ***************
+11:50:38.716 [main] INFO  api.test.UserTests2 - ********** Uploading pet image ***************
+11:56:24.131 [main] DEBUG api.test.UserTests2 - Debugging.....
+11:56:24.182 [main] INFO  api.test.UserTests2 - ********** Creating Pet  ***************
+11:56:27.036 [main] INFO  api.test.UserTests2 - ********** Uploading pet image ***************
+11:57:55.700 [main] DEBUG api.test.UserTests2 - Debugging.....
+11:57:55.762 [main] INFO  api.test.UserTests2 - ********** Creating Pet  ***************
+11:57:58.573 [main] INFO  api.test.UserTests2 - ********** Uploading pet image ***************
+11:59:46.413 [main] DEBUG api.test.UserTests2 - Debugging.....
+11:59:46.472 [main] INFO  api.test.UserTests2 - ********** Creating Pet  ***************
+11:59:49.515 [main] INFO  api.test.UserTests2 - ********** Uploading pet image ***************
+12:02:22.362 [main] DEBUG api.test.UserTests2 - Debugging.....
+12:02:22.386 [main] INFO  api.test.UserTests2 - ********** Creating Pet  ***************
+12:02:24.958 [main] INFO  api.test.UserTests2 - ********** Uploading pet image ***************
+12:09:56.292 [main] DEBUG api.test.UserTests2 - Debugging.....
+12:09:56.356 [main] INFO  api.test.UserTests2 - ********** Creating Pet  ***************
+12:10:01.414 [main] INFO  api.test.UserTests2 - ********** Uploading pet image ***************
+12:11:09.304 [main] DEBUG api.test.UserTests2 - Debugging.....
+12:11:09.355 [main] INFO  api.test.UserTests2 - ********** Creating Pet  ***************
+12:11:13.354 [main] INFO  api.test.UserTests2 - ********** Uploading pet image ***************
+12:15:43.972 [main] DEBUG api.test.UserTests2 - Debugging.....
+12:15:44.016 [main] INFO  api.test.UserTests2 - ********** Creating Pet  ***************
+12:15:47.150 [main] INFO  api.test.UserTests2 - ********** Reading Pet Info ***************
+12:15:48.812 [main] INFO  api.test.UserTests2 - ********** Uploading pet image ***************
+12:16:30.824 [main] DEBUG api.test.UserTests2 - Debugging.....
+12:16:30.871 [main] INFO  api.test.UserTests2 - ********** Creating Pet  ***************
+12:16:34.296 [main] INFO  api.test.UserTests2 - ********** Reading Pet Info ***************
+12:16:35.954 [main] INFO  api.test.UserTests2 - ********** Uploading pet image ***************
+12:22:41.997 [main] DEBUG api.test.UserTests2 - Debugging.....
+12:22:42.068 [main] INFO  api.test.UserTests2 - ********** Creating Pet  ***************
+12:22:48.116 [main] INFO  api.test.UserTests2 - **********pet is created  ***************
+12:22:48.135 [main] INFO  api.test.UserTests2 - ********** Reading Pet Info ***************
+12:22:49.455 [main] INFO  api.test.UserTests2 - **********Pet info  is displayed ***************
+12:52:09.740 [main] DEBUG api.test.PetsTest - Debugging.....
+12:52:09.799 [main] INFO  api.test.PetsTest - ********** Creating pet ***************
+12:52:15.617 [main] INFO  api.test.PetsTest - ********** Uploading pet image ***************
+12:53:15.626 [main] DEBUG api.test.PetsTest - Debugging.....
+12:53:15.778 [main] INFO  api.test.PetsTest - ********** Creating pet ***************
+12:57:36.616 [main] DEBUG api.test.PetsTest - Debugging.....
+12:57:36.679 [main] INFO  api.test.PetsTest - ********** Creating pet ***************
+12:57:44.166 [main] INFO  api.test.PetsTest - ********** Pet is created ***************
+12:58:54.936 [main] DEBUG api.test.PetsTest - Debugging.....
+12:58:54.981 [main] INFO  api.test.PetsTest - ********** Creating pet ***************
+12:59:01.591 [main] INFO  api.test.PetsTest - ********** Pet is created ***************
+12:59:01.617 [main] INFO  api.test.PetsTest - ********** Uploading pet image ***************
+12:59:04.389 [main] INFO  api.test.PetsTest - ********** Pet image uploaded successfully ***************
+14:24:04.494 [main] DEBUG api.test.PetsTest - Debugging.....
+14:24:04.534 [main] INFO  api.test.PetsTest - ********** Creating pet ***************
+14:24:10.896 [main] INFO  api.test.PetsTest - ********** Pet is created ***************
+14:24:10.912 [main] INFO  api.test.PetsTest - ********** Reading Pet Info ***************
+14:24:12.428 [main] INFO  api.test.PetsTest - ********** Uploading pet image ***************
+14:24:15.325 [main] INFO  api.test.PetsTest - ********** Pet image uploaded successfully ***************
+14:28:09.794 [main] DEBUG api.test.PetsTest - Debugging.....
+14:28:09.839 [main] INFO  api.test.PetsTest - ********** Creating pet ***************
+14:28:15.116 [main] INFO  api.test.PetsTest - ********** Pet is created ***************
+14:28:15.140 [main] INFO  api.test.PetsTest - ********** Reading Pet Info ***************
+14:28:16.931 [main] INFO  api.test.PetsTest - ********** Uploading pet image ***************
+14:28:19.919 [main] INFO  api.test.PetsTest - ********** Pet image uploaded successfully ***************
+14:33:00.243 [main] DEBUG api.test.PetsTest - Debugging.....
+14:33:00.303 [main] INFO  api.test.PetsTest - ********** Creating pet ***************
+14:33:07.437 [main] INFO  api.test.PetsTest - ********** Pet is created ***************
+14:33:07.451 [main] INFO  api.test.PetsTest - ********** Uploading pet image ***************
+14:33:10.357 [main] INFO  api.test.PetsTest - ********** Pet image uploaded successfully ***************
+14:33:10.363 [main] INFO  api.test.PetsTest - ********** Reading Pet Info ***************
+14:33:11.893 [main] INFO  api.test.PetsTest - **********Pet info  is displayed ***************
+14:46:49.816 [main] DEBUG api.test.PetsTest - Debugging.....
+14:46:49.868 [main] INFO  api.test.PetsTest - ********** Creating pet ***************
+14:46:56.457 [main] INFO  api.test.PetsTest - ********** Pet is created ***************
+14:46:56.477 [main] INFO  api.test.PetsTest - ********** Uploading pet image ***************
+14:46:59.458 [main] INFO  api.test.PetsTest - ********** Pet image uploaded successfully ***************
+14:46:59.475 [main] INFO  api.test.PetsTest - ********** Reading Pet Info ***************
+14:47:00.842 [main] INFO  api.test.PetsTest - **********Pet info  is displayed ***************
+14:47:00.854 [main] INFO  api.test.PetsTest - ********** Creating pet ***************
+14:47:02.295 [main] INFO  api.test.PetsTest - ********** Pet is created ***************
+15:08:46.271 [main] DEBUG api.test.PetsTest - Debugging.....
+15:08:46.317 [main] INFO  api.test.PetsTest - ********** Creating pet ***************
+15:08:54.160 [main] INFO  api.test.PetsTest - ********** Pet is created ***************
+15:08:54.182 [main] INFO  api.test.PetsTest - ********** Uploading pet image ***************
+15:08:57.037 [main] INFO  api.test.PetsTest - ********** Pet image uploaded successfully ***************
+15:08:57.046 [main] INFO  api.test.PetsTest - ********** Reading Pet Info ***************
+15:08:58.673 [main] INFO  api.test.PetsTest - **********Pet info  is displayed ***************
+15:08:58.680 [main] INFO  api.test.PetsTest - ********** Creating pet ***************
+15:09:00.099 [main] INFO  api.test.PetsTest - ********** Pet is created ***************
+15:13:20.226 [main] DEBUG api.test.PetsTest - Debugging.....
+15:13:20.287 [main] INFO  api.test.PetsTest - ********** Creating pet ***************
+15:13:26.612 [main] INFO  api.test.PetsTest - ********** Pet is created ***************
+15:13:26.658 [main] INFO  api.test.PetsTest - ********** Uploading pet image ***************
+15:13:29.624 [main] INFO  api.test.PetsTest - ********** Pet image uploaded successfully ***************
+15:13:29.633 [main] INFO  api.test.PetsTest - ********** Reading Pet Info ***************
+15:13:31.263 [main] INFO  api.test.PetsTest - **********Pet info  is displayed ***************
+15:13:31.269 [main] INFO  api.test.PetsTest - ********** Creating pet ***************
+15:13:32.799 [main] INFO  api.test.PetsTest - ********** Pet is created ***************
+15:29:38.839 [main] DEBUG api.test.PetsTest - Debugging.....
+15:29:38.885 [main] INFO  api.test.PetsTest - ********** Creating pet ***************
+15:29:44.980 [main] INFO  api.test.PetsTest - ********** Pet is created ***************
+15:29:44.990 [main] INFO  api.test.PetsTest - ********** Uploading pet image ***************
+15:29:47.941 [main] INFO  api.test.PetsTest - ********** Pet image uploaded successfully ***************
+15:29:47.955 [main] INFO  api.test.PetsTest - ********** Reading Pet Info ***************
+15:29:48.022 [main] INFO  api.test.PetsTest - ********** Reading Pet Info ***************
+15:29:49.572 [main] INFO  api.test.PetsTest - **********Pet info  is displayed ***************
+15:29:49.582 [main] INFO  api.test.PetsTest - ********** Creating pet ***************
+15:29:51.112 [main] INFO  api.test.PetsTest - ********** Pet is created ***************
+15:31:08.383 [main] DEBUG api.test.PetsTest - Debugging.....
+15:31:08.437 [main] INFO  api.test.PetsTest - ********** Reading Pet Info ***************
+15:35:43.139 [main] DEBUG api.test.PetsTest - Debugging.....
+15:35:43.199 [main] INFO  api.test.PetsTest - ********** Reading Pet Info ***************
+15:39:16.652 [main] DEBUG api.test.PetsTest - Debugging.....
+15:39:16.687 [main] INFO  api.test.PetsTest - ********** Creating pet ***************
+15:39:23.071 [main] INFO  api.test.PetsTest - ********** Pet is created ***************
+15:39:23.083 [main] INFO  api.test.PetsTest - ********** Uploading pet image ***************
+15:39:25.999 [main] INFO  api.test.PetsTest - ********** Pet image uploaded successfully ***************
+15:39:26.006 [main] INFO  api.test.PetsTest - ********** Reading Pet Info ***************
+15:39:27.405 [main] INFO  api.test.PetsTest - **********Pet info  is displayed ***************
+15:39:27.411 [main] INFO  api.test.PetsTest - ********** Creating pet ***************
+15:39:28.947 [main] INFO  api.test.PetsTest - ********** Pet is created ***************
+15:39:28.956 [main] INFO  api.test.PetsTest - ********** Reading Pet Info ***************
+15:40:34.902 [main] DEBUG api.test.PetsTest - Debugging.....
+15:40:34.934 [main] INFO  api.test.PetsTest - ********** Reading Pet Info ***************
+15:41:42.987 [main] DEBUG api.test.PetsTest - Debugging.....
+15:41:43.037 [main] INFO  api.test.PetsTest - ********** Creating pet ***************
+15:41:48.259 [main] INFO  api.test.PetsTest - ********** Pet is created ***************
+15:41:48.298 [main] INFO  api.test.PetsTest - ********** Uploading pet image ***************
+15:41:51.072 [main] INFO  api.test.PetsTest - ********** Pet image uploaded successfully ***************
+15:41:51.083 [main] INFO  api.test.PetsTest - ********** Reading Pet Info ***************
+15:41:52.605 [main] INFO  api.test.PetsTest - **********Pet info  is displayed ***************
+15:41:52.612 [main] INFO  api.test.PetsTest - ********** Reading Pet Info ***************
+15:43:46.854 [main] DEBUG api.test.PetsTest - Debugging.....
+15:43:46.901 [main] INFO  api.test.PetsTest - ********** Reading Pet Info ***************
+15:46:40.829 [main] DEBUG api.test.PetsTest - Debugging.....
+15:46:40.866 [main] INFO  api.test.PetsTest - ********** Reading Pet Info ***************
+15:48:51.568 [main] DEBUG api.test.PetsTest - Debugging.....
+15:48:51.614 [main] INFO  api.test.PetsTest - ********** Reading Pet Info ***************
+15:48:58.031 [main] INFO  api.test.PetsTest - **********Pet info  is displayed ***************
+15:50:04.823 [main] DEBUG api.test.PetsTest - Debugging.....
+15:50:04.860 [main] INFO  api.test.PetsTest - ********** Reading Pet Info ***************
+15:50:11.686 [main] INFO  api.test.PetsTest - **********Pet info  is displayed ***************
+15:54:46.582 [main] DEBUG api.test.PetsTest - Debugging.....
+15:54:46.647 [main] INFO  api.test.PetsTest - ********** Reading Pet Info ***************
+15:54:53.057 [main] INFO  api.test.PetsTest - **********Pet info  is displayed ***************
+15:57:18.869 [main] DEBUG api.test.PetsTest - Debugging.....
+15:57:18.943 [main] INFO  api.test.PetsTest - ********** Reading Pet Info ***************
+15:57:25.528 [main] INFO  api.test.PetsTest - **********Pet info  is displayed ***************
+15:57:53.176 [main] DEBUG api.test.PetsTest - Debugging.....
+15:57:53.227 [main] INFO  api.test.PetsTest - ********** Creating pet ***************
+15:58:01.381 [main] INFO  api.test.PetsTest - ********** Pet is created ***************
+15:58:01.391 [main] INFO  api.test.PetsTest - ********** Uploading pet image ***************
+15:58:03.958 [main] INFO  api.test.PetsTest - ********** Pet image uploaded successfully ***************
+15:58:03.968 [main] INFO  api.test.PetsTest - ********** Reading Pet Info ***************
+15:58:05.491 [main] INFO  api.test.PetsTest - **********Pet info  is displayed ***************
+15:58:05.506 [main] INFO  api.test.PetsTest - ********** Reading Pet Info ***************
+15:58:07.128 [main] INFO  api.test.PetsTest - **********Pet info  is displayed ***************
+16:00:12.353 [main] DEBUG api.test.PetsTest - Debugging.....
+16:00:12.387 [main] INFO  api.test.PetsTest - ********** Creating pet ***************
+16:00:17.628 [main] INFO  api.test.PetsTest - ********** Pet is created ***************
+16:00:17.640 [main] INFO  api.test.PetsTest - ********** Uploading pet image ***************
+16:00:20.665 [main] INFO  api.test.PetsTest - ********** Pet image uploaded successfully ***************
+16:00:20.689 [main] INFO  api.test.PetsTest - ********** Reading Pet Info ***************
+16:00:22.299 [main] INFO  api.test.PetsTest - **********Pet info  is displayed ***************
+16:00:22.309 [main] INFO  api.test.PetsTest - ********** Creating pet ***************
+16:00:23.933 [main] INFO  api.test.PetsTest - ********** Pet is created ***************
+16:00:23.938 [main] INFO  api.test.PetsTest - ********** Reading Pet Info ***************
+16:00:25.471 [main] INFO  api.test.PetsTest - **********Pet info  is displayed ***************
+17:07:49.484 [main] DEBUG api.test.PetsTest - Debugging.....
+17:07:49.563 [main] INFO  api.test.PetsTest - ********** Delete pet ***************
+17:12:41.856 [main] DEBUG api.test.PetsTest - Debugging.....
+17:12:41.904 [main] INFO  api.test.PetsTest - ********** Creating pet ***************
+17:12:49.111 [main] INFO  api.test.PetsTest - ********** Pet is created ***************
+17:12:49.145 [main] INFO  api.test.PetsTest - ********** Uploading pet image ***************
+17:12:52.079 [main] INFO  api.test.PetsTest - ********** Pet image uploaded successfully ***************
+17:12:52.093 [main] INFO  api.test.PetsTest - ********** Reading Pet Info ***************
+17:12:53.716 [main] INFO  api.test.PetsTest - **********Pet info  is displayed ***************
+17:12:53.722 [main] INFO  api.test.PetsTest - ********** Creating pet ***************
+17:12:55.254 [main] INFO  api.test.PetsTest - ********** Pet is created ***************
+17:12:55.267 [main] INFO  api.test.PetsTest - ********** Reading Pet Info ***************
+17:12:56.785 [main] INFO  api.test.PetsTest - **********Pet info  is displayed ***************
+17:12:56.803 [main] INFO  api.test.PetsTest - ********** Delete pet ***************
+17:12:58.323 [main] INFO  api.test.PetsTest - ********** pet is deleted ***************
+17:13:39.639 [main] DEBUG api.test.PetsTest - Debugging.....
+17:13:39.729 [main] INFO  api.test.PetsTest - ********** Delete pet ***************
+17:14:11.864 [main] DEBUG api.test.PetsTest - Debugging.....
+17:14:11.918 [main] INFO  api.test.PetsTest - ********** Creating pet ***************
+17:14:19.548 [main] INFO  api.test.PetsTest - ********** Pet is created ***************
+17:14:19.566 [main] INFO  api.test.PetsTest - ********** Uploading pet image ***************
+17:14:22.494 [main] INFO  api.test.PetsTest - ********** Pet image uploaded successfully ***************
+17:14:22.501 [main] INFO  api.test.PetsTest - ********** Reading Pet Info ***************
+17:14:23.754 [main] INFO  api.test.PetsTest - **********Pet info  is displayed ***************
+17:14:23.762 [main] INFO  api.test.PetsTest - ********** Creating pet ***************
+17:14:25.154 [main] INFO  api.test.PetsTest - ********** Pet is created ***************
+17:14:25.160 [main] INFO  api.test.PetsTest - ********** Reading Pet Info ***************
+17:14:26.551 [main] INFO  api.test.PetsTest - **********Pet info  is displayed ***************
+17:14:26.557 [main] INFO  api.test.PetsTest - ********** Delete pet ***************
+17:14:27.968 [main] INFO  api.test.PetsTest - ********** pet is deleted ***************
+17:17:59.647 [main] DEBUG api.test.PetsTest - Debugging.....
+17:17:59.716 [main] INFO  api.test.PetsTest - ********** Creating pet ***************
+17:18:07.226 [main] INFO  api.test.PetsTest - ********** Pet is created ***************
+17:18:07.307 [main] INFO  api.test.PetsTest - ********** Uploading pet image ***************
+17:18:10.539 [main] INFO  api.test.PetsTest - ********** Pet image uploaded successfully ***************
+17:18:10.546 [main] INFO  api.test.PetsTest - ********** Reading Pet Info ***************
+17:18:12.004 [main] INFO  api.test.PetsTest - **********Pet info  is displayed ***************
+17:18:12.009 [main] INFO  api.test.PetsTest - ********** Creating pet ***************
+17:18:13.504 [main] INFO  api.test.PetsTest - ********** Pet is created ***************
+17:18:13.512 [main] INFO  api.test.PetsTest - ********** Reading Pet Info ***************
+17:18:15.039 [main] INFO  api.test.PetsTest - **********Pet info  is displayed ***************
+17:18:15.052 [main] INFO  api.test.PetsTest - ********** Delete pet ***************
+17:18:16.479 [main] INFO  api.test.PetsTest - ********** pet is deleted ***************
+17:19:09.406 [main] DEBUG api.test.PetsTest - Debugging.....
+17:19:09.435 [main] INFO  api.test.PetsTest - ********** Creating pet ***************
+17:19:13.969 [main] INFO  api.test.PetsTest - ********** Pet is created ***************
+17:19:13.979 [main] INFO  api.test.PetsTest - ********** Uploading pet image ***************
+17:19:16.889 [main] INFO  api.test.PetsTest - ********** Pet image uploaded successfully ***************
+17:19:16.893 [main] INFO  api.test.PetsTest - ********** Reading Pet Info ***************
+17:19:18.428 [main] INFO  api.test.PetsTest - **********Pet info  is displayed ***************
+17:19:18.431 [main] INFO  api.test.PetsTest - ********** Creating pet ***************
+17:19:19.961 [main] INFO  api.test.PetsTest - ********** Pet is created ***************
+17:19:19.965 [main] INFO  api.test.PetsTest - ********** Reading Pet Info ***************
+17:19:21.496 [main] INFO  api.test.PetsTest - **********Pet info  is displayed ***************
+17:19:21.499 [main] INFO  api.test.PetsTest - ********** Delete pet ***************
+17:19:22.930 [main] INFO  api.test.PetsTest - ********** pet is deleted ***************
